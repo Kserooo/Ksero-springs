@@ -1,4 +1,4 @@
-US03: Usuario registrado inicia sesión con nombre de usuario y contraseña
+US02: Usuario registrado inicia sesión con nombre de usuario y contraseña
 
 Como usuario registrado quiero iniciar sesión con mi nombre de usuario y contraseña para usar la aplicación.
 
